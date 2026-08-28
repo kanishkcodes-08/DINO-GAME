@@ -15,7 +15,11 @@ A Chrome Dino-inspired browser game made using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## ▶️ How to Play
-Press the SPACE key to jump and avoid the obstacles.
+
+- ⬆️ **UP Arrow** — Jump over the cactus 🌵
+- ⬇️ **DOWN Arrow** — Duck under the bats 🦇
+- 📱 **Touch Controls** — The game is screen-touchable, so you can play on touchscreen devices too.
+- 🎯 Avoid the obstacles and survive as long as possible!
 
 ## 👨‍💻 Author
 Kanishk Jha
